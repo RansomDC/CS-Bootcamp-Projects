@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.pdb

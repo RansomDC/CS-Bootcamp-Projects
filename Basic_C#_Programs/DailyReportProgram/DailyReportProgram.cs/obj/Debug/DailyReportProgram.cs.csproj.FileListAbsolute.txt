@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\DailyReportProgram\DailyReportProgram.cs\bin\Debug\DailyReportProgram.cs.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\DailyReportProgram\DailyReportProgram.cs\bin\Debug\DailyReportProgram.cs.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\DailyReportProgram\DailyReportProgram.cs\bin\Debug\DailyReportProgram.cs.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\DailyReportProgram\DailyReportProgram.cs\obj\Debug\DailyReportProgram.cs.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\DailyReportProgram\DailyReportProgram.cs\obj\Debug\DailyReportProgram.cs.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\DailyReportProgram\DailyReportProgram.cs\obj\Debug\DailyReportProgram.cs.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Basic_C#_Programs\DailyReportProgram\DailyReportProgram.cs\obj\Debug\DailyReportProgram.cs.pdb
