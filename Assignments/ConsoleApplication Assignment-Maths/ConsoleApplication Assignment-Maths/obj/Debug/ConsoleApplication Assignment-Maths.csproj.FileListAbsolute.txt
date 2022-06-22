@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\ConsoleApplication Assignment-Maths\ConsoleApplication Assignment-Maths\bin\Debug\ConsoleApplication Assignment-Maths.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\ConsoleApplication Assignment-Maths\ConsoleApplication Assignment-Maths\bin\Debug\ConsoleApplication Assignment-Maths.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\ConsoleApplication Assignment-Maths\ConsoleApplication Assignment-Maths\bin\Debug\ConsoleApplication Assignment-Maths.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\ConsoleApplication Assignment-Maths\ConsoleApplication Assignment-Maths\obj\Debug\ConsoleApplication Assignment-Maths.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\ConsoleApplication Assignment-Maths\ConsoleApplication Assignment-Maths\obj\Debug\ConsoleApplication Assignment-Maths.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\ConsoleApplication Assignment-Maths\ConsoleApplication Assignment-Maths\obj\Debug\ConsoleApplication Assignment-Maths.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\ConsoleApplication Assignment-Maths\ConsoleApplication Assignment-Maths\obj\Debug\ConsoleApplication Assignment-Maths.pdb
