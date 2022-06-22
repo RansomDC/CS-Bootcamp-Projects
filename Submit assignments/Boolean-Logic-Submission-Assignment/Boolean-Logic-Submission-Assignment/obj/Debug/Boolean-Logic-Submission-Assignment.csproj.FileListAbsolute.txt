@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Boolean-Logic-Submission-Assignment\Boolean-Logic-Submission-Assignment\bin\Debug\Boolean-Logic-Submission-Assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Boolean-Logic-Submission-Assignment\Boolean-Logic-Submission-Assignment\bin\Debug\Boolean-Logic-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Boolean-Logic-Submission-Assignment\Boolean-Logic-Submission-Assignment\bin\Debug\Boolean-Logic-Submission-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Boolean-Logic-Submission-Assignment\Boolean-Logic-Submission-Assignment\obj\Debug\Boolean-Logic-Submission-Assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Boolean-Logic-Submission-Assignment\Boolean-Logic-Submission-Assignment\obj\Debug\Boolean-Logic-Submission-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Boolean-Logic-Submission-Assignment\Boolean-Logic-Submission-Assignment\obj\Debug\Boolean-Logic-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Boolean-Logic-Submission-Assignment\Boolean-Logic-Submission-Assignment\obj\Debug\Boolean-Logic-Submission-Assignment.pdb
