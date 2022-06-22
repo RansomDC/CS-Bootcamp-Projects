@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Branching Submission assignment\Branching Submission assignment\bin\Debug\Branching Submission assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Branching Submission assignment\Branching Submission assignment\bin\Debug\Branching Submission assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Branching Submission assignment\Branching Submission assignment\bin\Debug\Branching Submission assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Branching Submission assignment\Branching Submission assignment\obj\Debug\Branching Submission assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Branching Submission assignment\Branching Submission assignment\obj\Debug\Branching Submission assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Branching Submission assignment\Branching Submission assignment\obj\Debug\Branching Submission assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Branching Submission assignment\Branching Submission assignment\obj\Debug\Branching Submission assignment.pdb
