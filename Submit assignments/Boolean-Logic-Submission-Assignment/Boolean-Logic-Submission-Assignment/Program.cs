@@ -69,7 +69,7 @@ namespace Boolean_Logic_Submission_Assignment
             int tickets = Convert.ToInt32(ticketsInput);
 
             // Logical check to see if age is greater than or equal to 18, if the person has ha da DUI, and if the person has had less than 3 speeding tickets
-            if (age >= 15 && !DUI && tickets <= 3)
+            if (age > 15 && !DUI && tickets <= 3)
             {
                 Console.WriteLine("You are elegible for car insurance!");
             }
