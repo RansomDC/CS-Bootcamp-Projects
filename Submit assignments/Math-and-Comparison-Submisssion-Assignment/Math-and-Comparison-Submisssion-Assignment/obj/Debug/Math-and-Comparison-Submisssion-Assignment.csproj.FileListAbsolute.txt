@@ -1,0 +1,7 @@
+C:\Users\Ranso\source\repos\Math-and-Comparison-Submisssion-Assignment\Math-and-Comparison-Submisssion-Assignment\bin\Debug\Math-and-Comparison-Submisssion-Assignment.exe.config
+C:\Users\Ranso\source\repos\Math-and-Comparison-Submisssion-Assignment\Math-and-Comparison-Submisssion-Assignment\bin\Debug\Math-and-Comparison-Submisssion-Assignment.exe
+C:\Users\Ranso\source\repos\Math-and-Comparison-Submisssion-Assignment\Math-and-Comparison-Submisssion-Assignment\bin\Debug\Math-and-Comparison-Submisssion-Assignment.pdb
+C:\Users\Ranso\source\repos\Math-and-Comparison-Submisssion-Assignment\Math-and-Comparison-Submisssion-Assignment\obj\Debug\Math-and-Comparison-Submisssion-Assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\source\repos\Math-and-Comparison-Submisssion-Assignment\Math-and-Comparison-Submisssion-Assignment\obj\Debug\Math-and-Comparison-Submisssion-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\source\repos\Math-and-Comparison-Submisssion-Assignment\Math-and-Comparison-Submisssion-Assignment\obj\Debug\Math-and-Comparison-Submisssion-Assignment.exe
+C:\Users\Ranso\source\repos\Math-and-Comparison-Submisssion-Assignment\Math-and-Comparison-Submisssion-Assignment\obj\Debug\Math-and-Comparison-Submisssion-Assignment.pdb
