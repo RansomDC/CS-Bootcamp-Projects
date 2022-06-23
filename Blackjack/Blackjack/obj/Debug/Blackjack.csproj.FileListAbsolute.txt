@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
