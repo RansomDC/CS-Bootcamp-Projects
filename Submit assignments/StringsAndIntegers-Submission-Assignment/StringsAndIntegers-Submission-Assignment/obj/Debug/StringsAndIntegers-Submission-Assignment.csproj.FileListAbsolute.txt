@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\StringsAndIntegers-Submission-Assignment\StringsAndIntegers-Submission-Assignment\bin\Debug\StringsAndIntegers-Submission-Assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\StringsAndIntegers-Submission-Assignment\StringsAndIntegers-Submission-Assignment\bin\Debug\StringsAndIntegers-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\StringsAndIntegers-Submission-Assignment\StringsAndIntegers-Submission-Assignment\bin\Debug\StringsAndIntegers-Submission-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\StringsAndIntegers-Submission-Assignment\StringsAndIntegers-Submission-Assignment\obj\Debug\StringsAndIntegers-Submission-Assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\StringsAndIntegers-Submission-Assignment\StringsAndIntegers-Submission-Assignment\obj\Debug\StringsAndIntegers-Submission-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\StringsAndIntegers-Submission-Assignment\StringsAndIntegers-Submission-Assignment\obj\Debug\StringsAndIntegers-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\StringsAndIntegers-Submission-Assignment\StringsAndIntegers-Submission-Assignment\obj\Debug\StringsAndIntegers-Submission-Assignment.pdb
