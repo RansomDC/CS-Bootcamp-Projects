@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\6-part-submission-assignment\6-part-submission-assignment\bin\Debug\6-part-submission-assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\6-part-submission-assignment\6-part-submission-assignment\bin\Debug\6-part-submission-assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\6-part-submission-assignment\6-part-submission-assignment\bin\Debug\6-part-submission-assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\6-part-submission-assignment\6-part-submission-assignment\obj\Debug\6-part-submission-assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\6-part-submission-assignment\6-part-submission-assignment\obj\Debug\6-part-submission-assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\6-part-submission-assignment\6-part-submission-assignment\obj\Debug\6-part-submission-assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\6-part-submission-assignment\6-part-submission-assignment\obj\Debug\6-part-submission-assignment.pdb
