@@ -4,3 +4,4 @@ C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Abs
 C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\AbstractClass-Submission-Assignment\AbstractClass-Submission-Assignment\obj\Debug\AbstractClass-Submission-Assignment.csproj.CoreCompileInputs.cache
 C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\AbstractClass-Submission-Assignment\AbstractClass-Submission-Assignment\obj\Debug\AbstractClass-Submission-Assignment.exe
 C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\AbstractClass-Submission-Assignment\AbstractClass-Submission-Assignment\obj\Debug\AbstractClass-Submission-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\AbstractClass-Submission-Assignment\AbstractClass-Submission-Assignment\obj\Debug\AbstractClass-Submission-Assignment.csproj.AssemblyReference.cache

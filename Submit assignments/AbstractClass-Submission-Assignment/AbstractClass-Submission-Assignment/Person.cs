@@ -12,10 +12,7 @@ namespace AbstractClass_Submission_Assignment
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        // method to pring the properties of the class. It is given the "virtual" keyword which allows it to be altered by classes than inherit from this class.
-        public virtual void SayName()
-        {
-            Console.WriteLine(firstName + " " + lastName);
-        }
+        // A base method that must be included on any child classes
+        public abstract void SayName();
     }
 }
