@@ -10,15 +10,18 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
+            BlackJackGame game = new BlackJackGame();
+            game.Players = new List<string>() { "Ransom", "Carl", "Michael" };
+            game.ListPlayers();
 
-            Deck deck = new Deck();
-            deck.Shuffle();
+            //Deck deck = new Deck();
+            //deck.Shuffle();
 
-            foreach (Card Card in deck.Cards)
-            {
-                Console.WriteLine(Card.Face + " of " + Card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+            //foreach (Card Card in deck.Cards)
+            //{
+            //    Console.WriteLine(Card.Face + " of " + Card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
             Console.Read();
         }
 
