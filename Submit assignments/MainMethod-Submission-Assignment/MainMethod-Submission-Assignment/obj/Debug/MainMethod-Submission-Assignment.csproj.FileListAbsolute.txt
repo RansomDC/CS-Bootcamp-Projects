@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\MainMethod-Submission-Assignment\MainMethod-Submission-Assignment\bin\Debug\MainMethod-Submission-Assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\MainMethod-Submission-Assignment\MainMethod-Submission-Assignment\bin\Debug\MainMethod-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\MainMethod-Submission-Assignment\MainMethod-Submission-Assignment\bin\Debug\MainMethod-Submission-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\MainMethod-Submission-Assignment\MainMethod-Submission-Assignment\obj\Debug\MainMethod-Submission-Assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\MainMethod-Submission-Assignment\MainMethod-Submission-Assignment\obj\Debug\MainMethod-Submission-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\MainMethod-Submission-Assignment\MainMethod-Submission-Assignment\obj\Debug\MainMethod-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\MainMethod-Submission-Assignment\MainMethod-Submission-Assignment\obj\Debug\MainMethod-Submission-Assignment.pdb
