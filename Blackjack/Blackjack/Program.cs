@@ -11,8 +11,7 @@ namespace Blackjack
         static void Main(string[] args)
         {
             Deck deck = new Deck();
-            // Calling this method we used "Named parameters" which makes it more readable
-            deck = Shuffle(deck: deck, times: 3);
+            deck.Shuffle();
 
             foreach (Card Card in deck.Cards)
             {
@@ -20,7 +19,6 @@ namespace Blackjack
             }
             Console.WriteLine(deck.Cards.Count);
             Console.Read();
-
         }
 
         // In this method declaration we can see an optional parameter (int times = 1) which will fill in the default value (1) if no parameter is used when the method is called
