@@ -19,6 +19,13 @@ namespace Class_Submission_Assignment
             newMath.Multiply(input, out divided);
 
             Console.WriteLine(divided);
+
+            // Calls the int version of the overloaded method test
+            Console.WriteLine(Other.test(2));
+
+            // Calls the string version of the overloaded method test
+            Console.WriteLine(Other.test("Hello"));
+
             Console.Read();
         }
     }
