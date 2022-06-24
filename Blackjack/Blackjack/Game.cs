@@ -11,6 +11,7 @@ namespace Blackjack
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
+
         public void ListPlayers()
         {
             foreach (string player in Players)
