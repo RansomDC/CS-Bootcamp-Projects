@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractClass_Submission_Assignment
+namespace Polymorphism_Submission_Assignment
 {
     public abstract class Person
     {

@@ -10,18 +10,20 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            BlackJackGame game = new BlackJackGame();
-            game.Players = new List<string>() { "Ransom", "Carl", "Michael" };
-            game.ListPlayers();
+            // Creates a new Deck object named "deck" 
+            Deck deck = new Deck();
 
-            //Deck deck = new Deck();
-            //deck.Shuffle();
+            // Calls the Deck class's Shuffle() method while referencing the "deck" object we created
+            deck.Shuffle();
 
-            //foreach (Card Card in deck.Cards)
-            //{
-            //    Console.WriteLine(Card.Face + " of " + Card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
+            // This prints each card in our deck object in the order they appear in the list that is the deck object's property
+            foreach (Card Card in deck.Cards)
+            {
+                Console.WriteLine(Card.Face + " of " + Card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
+
+            // This stops the program before it closes the window so that we can read what the program output.
             Console.Read();
         }
 
