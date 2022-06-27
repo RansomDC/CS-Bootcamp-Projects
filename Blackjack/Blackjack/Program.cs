@@ -10,6 +10,15 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
+            Game game = new BlackJackGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            game = game + player;
+            game = game - player;
+
+
+
             // Creates a new Deck object named "deck" 
             Deck deck = new Deck();
 

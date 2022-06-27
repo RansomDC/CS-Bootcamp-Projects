@@ -9,7 +9,7 @@ namespace Blackjack
     public abstract class Game
     {
         //These are the class properties
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -20,7 +20,7 @@ namespace Blackjack
         public virtual void ListPlayers()
         {
             //a for each loop that lists all of the players
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
                 Console.WriteLine(player);
             }
