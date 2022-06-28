@@ -14,24 +14,36 @@ namespace Blackjack
             // This sets the Cards property to being a list that can contain Card objects
             Cards = new List<Card>();
             
-            // This simply declares a list of all of the different suits of cards that are possible
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-            // This simple declares a list of all of the different values (faces) of cards that are possible
-            List<string> Faces = new List<string>() { "Two", "three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace" };
-
-            // This loop moves through the different values (faces) of the cards
-            foreach (string face in Faces)
+            for(int i= 0 ; i < 13; i++)
             {
-                // This loop moves through the different suits of the cards
-                // e.g. to start out this will create 4 "Twos" one of each suit. Then it will make 4 "Threes" one of each suit, etc.
-                foreach (string suit in Suits)
+                for (int c = 0; c < 4; c++)
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)c;
                     Cards.Add(card);
                 }
             }
+
+
+            //// This simply declares a list of all of the different suits of cards that are possible
+            //List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
+            //// This simple declares a list of all of the different values (faces) of cards that are possible
+            //List<string> Faces = new List<string>() { "Two", "three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace" };
+
+            //// This loop moves through the different values (faces) of the cards
+            //foreach (string face in Faces)
+            //{
+            //    // This loop moves through the different suits of the cards
+            //    // e.g. to start out this will create 4 "Twos" one of each suit. Then it will make 4 "Threes" one of each suit, etc.
+            //    foreach (string suit in Suits)
+            //    {
+            //        Card card = new Card();
+            //        card.Suit = suit;
+            //        card.Face = face;
+            //        Cards.Add(card);
+            //    }
+            //}
         }
 
         // This is the property of the Deck class

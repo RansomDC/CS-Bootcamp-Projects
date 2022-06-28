@@ -10,7 +10,33 @@ namespace Blackjack
     public class Card
     {
         //There are only two properties (that we care about) of a playing card. Suit and Face.
-        public string Suit { get; set; }
-        public string Face { get; set; }
+        public Suit Suit { get; set; }
+        public Face Face { get; set; }
+    }
+
+    // Declares an enum, which is a set of possible values for a parameter to have. It is a type of class so we have made the Suit parameter which was simply string a data type of Suit, which has limited options on what the values can actually be.
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
+    }
+
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
     }
 }

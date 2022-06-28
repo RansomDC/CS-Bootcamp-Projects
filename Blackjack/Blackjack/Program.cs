@@ -10,20 +10,13 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            Game game = new BlackJackGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game = game + player;
-            game = game - player;
-
-
 
             // Creates a new Deck object named "deck" 
             Deck deck = new Deck();
 
+
             // Calls the Deck class's Shuffle() method while referencing the "deck" object we created
-            deck.Shuffle();
+            // deck.Shuffle();
 
             // This prints each card in our deck object in the order they appear in the list that is the deck object's property
             foreach (Card Card in deck.Cards)

@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\ParsingEnums-Submission-Assignment\ParsingEnums-Submission-Assignment\bin\Debug\ParsingEnums-Submission-Assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\ParsingEnums-Submission-Assignment\ParsingEnums-Submission-Assignment\bin\Debug\ParsingEnums-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\ParsingEnums-Submission-Assignment\ParsingEnums-Submission-Assignment\bin\Debug\ParsingEnums-Submission-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\ParsingEnums-Submission-Assignment\ParsingEnums-Submission-Assignment\obj\Debug\ParsingEnums-Submission-Assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\ParsingEnums-Submission-Assignment\ParsingEnums-Submission-Assignment\obj\Debug\ParsingEnums-Submission-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\ParsingEnums-Submission-Assignment\ParsingEnums-Submission-Assignment\obj\Debug\ParsingEnums-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\ParsingEnums-Submission-Assignment\ParsingEnums-Submission-Assignment\obj\Debug\ParsingEnums-Submission-Assignment.pdb

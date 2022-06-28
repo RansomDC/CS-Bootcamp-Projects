@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Parameters-Assignment\Parameters-Assignment\bin\Debug\Parameters-Assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Parameters-Assignment\Parameters-Assignment\bin\Debug\Parameters-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Parameters-Assignment\Parameters-Assignment\bin\Debug\Parameters-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Parameters-Assignment\Parameters-Assignment\obj\Debug\Parameters-Assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Parameters-Assignment\Parameters-Assignment\obj\Debug\Parameters-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Parameters-Assignment\Parameters-Assignment\obj\Debug\Parameters-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Parameters-Assignment\Parameters-Assignment\obj\Debug\Parameters-Assignment.pdb
