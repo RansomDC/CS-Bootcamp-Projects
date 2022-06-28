@@ -14,7 +14,6 @@ namespace Blackjack
             // Creates a new Deck object named "deck" 
             Deck deck = new Deck();
 
-
             // Calls the Deck class's Shuffle() method while referencing the "deck" object we created
             // deck.Shuffle();
 

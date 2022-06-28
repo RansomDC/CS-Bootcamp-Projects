@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Lambda-Submission-Assignment\Lambda-Submission-Assignment\bin\Debug\Lambda-Submission-Assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Lambda-Submission-Assignment\Lambda-Submission-Assignment\bin\Debug\Lambda-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Lambda-Submission-Assignment\Lambda-Submission-Assignment\bin\Debug\Lambda-Submission-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Lambda-Submission-Assignment\Lambda-Submission-Assignment\obj\Debug\Lambda-Submission-Assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Lambda-Submission-Assignment\Lambda-Submission-Assignment\obj\Debug\Lambda-Submission-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Lambda-Submission-Assignment\Lambda-Submission-Assignment\obj\Debug\Lambda-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Lambda-Submission-Assignment\Lambda-Submission-Assignment\obj\Debug\Lambda-Submission-Assignment.pdb

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Blackjack
 {
     // A simple class that determines the properties of a single card
-    public class Card
+    public struct Card
     {
         //There are only two properties (that we care about) of a playing card. Suit and Face.
         public Suit Suit { get; set; }
