@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blackjack
+namespace Casino.Blackjack
 {
     //This class inherits from the Game clas (which is an abstract class)
-    class BlackJackGame : Game
+    public class BlackJackGame : Game
     {
-        //
+        //One of the properties of the BlackJackGame is a BlackJackDealer
         public BlackJackDealer Dealer { get; set; }
+
         // This is the overarching method to play the game
         public override void Play()
         {
@@ -210,9 +211,9 @@ namespace Blackjack
             // This line appears when the method being called has some base functionality in the parent method, and is basically a placeholder for that functionality
             base.ListPlayers();
         }
-        public void WalkAway(Player player)
-        {
-            throw new NotImplementedException();
-        }
+        //public void WalkAway(Player player)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

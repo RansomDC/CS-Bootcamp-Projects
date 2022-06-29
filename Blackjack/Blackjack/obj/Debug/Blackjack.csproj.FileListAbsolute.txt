@@ -5,3 +5,6 @@ C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\ob
 C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
 C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
 C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\bin\Debug\Casino.dll
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\bin\Debug\Casino.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete

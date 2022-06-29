@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Constructor-Submission-Assignment\Constructor-Submission-Assignment\bin\Debug\Constructor-Submission-Assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Constructor-Submission-Assignment\Constructor-Submission-Assignment\bin\Debug\Constructor-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Constructor-Submission-Assignment\Constructor-Submission-Assignment\bin\Debug\Constructor-Submission-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Constructor-Submission-Assignment\Constructor-Submission-Assignment\obj\Debug\Constructor-Submission-Assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Constructor-Submission-Assignment\Constructor-Submission-Assignment\obj\Debug\Constructor-Submission-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Constructor-Submission-Assignment\Constructor-Submission-Assignment\obj\Debug\Constructor-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\Constructor-Submission-Assignment\Constructor-Submission-Assignment\obj\Debug\Constructor-Submission-Assignment.pdb

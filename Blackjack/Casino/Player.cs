@@ -4,11 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blackjack
+namespace Casino
 {
     // This class creates a player with a variety of properties
     public class Player
     {
+        // This is part of a constructor call chain, which basically inherits the information of another constructor and gives someone calling a constructor to use different parameters.
+        // In this case the inheriting constructor below takes a single parameter (name) instead of two parameters (name and balance). Instead it sets the name normally, and uses a default value
+        // for the balance (100)
+        public Player(string name) : this(name, 100)
+        {
+        }
+
         // This is a constructor for hte Player class
         public Player(string name, int beginningBalance)
         {
@@ -25,6 +32,7 @@ namespace Blackjack
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }
 
         public bool Bet(int amount)
         {

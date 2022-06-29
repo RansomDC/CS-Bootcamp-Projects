@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blackjack
+namespace Casino.Blackjack
 {
     // This is a class with some basic properties
     public class BlackJackDealer : Dealer

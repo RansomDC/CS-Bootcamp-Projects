@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blackjack
+namespace Casino
 {
     // This creates an interface that can be inherited by other classes
     interface IWalkAway

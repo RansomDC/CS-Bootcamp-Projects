@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+// In order to include this in a using statement, we had to build the Casino project and then add it as a reference by browsing the computer and finding the .dll file for it.
+using Casino;
+using Casino.Blackjack;
+
 
 namespace Blackjack
 {
@@ -12,8 +16,9 @@ namespace Blackjack
         static void Main(string[] args)
         {
 
-
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start gy telling me your name.");
+            // This is simply showing off creating a constant in C#
+            const string casinoName = "The Grand Hotel and Casino";
+            Console.WriteLine("Welcome to {0}. Let's start gy telling me your name.", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("Welcom {0}! How much money did you bring to play with today?", playerName);
             int bank = Convert.ToInt32(Console.ReadLine());
@@ -23,6 +28,14 @@ namespace Blackjack
             {
                 // Calls the Player constructor and fills in the required values (name and balance)
                 Player player = new Player(playerName, bank);
+
+                //Creates a Guid and populates the Guid property of the player object we just made
+                player.Id = Guid.NewGuid();
+                //We are going to use this to log the Guid to our text document.
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\TextLogging.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
 
                 // Creates a new game of Blackjack
                 Game game = new BlackJackGame();
