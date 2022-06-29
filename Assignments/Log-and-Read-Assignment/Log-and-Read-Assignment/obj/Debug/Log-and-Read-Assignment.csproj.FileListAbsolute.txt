@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Log-and-Read-Assignment\Log-and-Read-Assignment\bin\Debug\Log-and-Read-Assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Log-and-Read-Assignment\Log-and-Read-Assignment\bin\Debug\Log-and-Read-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Log-and-Read-Assignment\Log-and-Read-Assignment\bin\Debug\Log-and-Read-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Log-and-Read-Assignment\Log-and-Read-Assignment\obj\Debug\Log-and-Read-Assignment.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Log-and-Read-Assignment\Log-and-Read-Assignment\obj\Debug\Log-and-Read-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Log-and-Read-Assignment\Log-and-Read-Assignment\obj\Debug\Log-and-Read-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Assignments\Log-and-Read-Assignment\Log-and-Read-Assignment\obj\Debug\Log-and-Read-Assignment.pdb

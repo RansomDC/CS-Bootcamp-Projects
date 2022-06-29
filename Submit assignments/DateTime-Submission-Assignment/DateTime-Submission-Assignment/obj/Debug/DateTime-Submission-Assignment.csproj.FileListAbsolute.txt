@@ -1,0 +1,6 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\DateTime-Submission-Assignment\DateTime-Submission-Assignment\bin\Debug\DateTime-Submission-Assignment.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\DateTime-Submission-Assignment\DateTime-Submission-Assignment\bin\Debug\DateTime-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\DateTime-Submission-Assignment\DateTime-Submission-Assignment\bin\Debug\DateTime-Submission-Assignment.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\DateTime-Submission-Assignment\DateTime-Submission-Assignment\obj\Debug\DateTime-Submission-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\DateTime-Submission-Assignment\DateTime-Submission-Assignment\obj\Debug\DateTime-Submission-Assignment.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Submit assignments\DateTime-Submission-Assignment\DateTime-Submission-Assignment\obj\Debug\DateTime-Submission-Assignment.pdb
