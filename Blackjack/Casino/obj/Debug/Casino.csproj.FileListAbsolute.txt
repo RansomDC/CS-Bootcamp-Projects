@@ -3,3 +3,4 @@ C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Casino\bin\D
 C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Casino\obj\Debug\Casino.dll
 C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Casino\obj\Debug\Casino.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Blackjack\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache

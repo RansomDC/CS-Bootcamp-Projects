@@ -31,12 +31,23 @@ namespace Casino.Blackjack
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
 
-            Console.WriteLine("Place your bet!");
-
             // This goes through the list of players and asks each for a bet (which is an int value).
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bet!");
+                    // validAnswer remains false until a valid integer is input, and until it becomes true the while loop will continue to repeat itself
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Use digits only, and no decimals please!");
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException("Security! Show them what we do to dirty cheaters!");
+                }
+
                 // This runs the player.Bet() method which returns a bool of whether they have enough money to bet the amount they want to
                 bool successfullyBet = player.Bet(bet);
                 // This if statement says if they don't successfully bet the method ends

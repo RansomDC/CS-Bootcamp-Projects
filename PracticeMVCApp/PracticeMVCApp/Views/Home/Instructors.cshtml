@@ -1,0 +1,29 @@
+﻿@using System.Collections.Generic
+@using PracticeMVCApp.Models
+
+@model List<Instructor>
+
+
+@{
+    ViewBag.Title = "Instructors";
+}
+
+<h2>Instructors</h2>
+
+<h5>
+    Details for Instructor with ID: @ViewBag.Id
+</h5>
+
+<p>
+    Further details about the Instructor:
+</p>
+
+<ul>
+    @foreach (Instructor each in Model)
+    {
+        <li>
+            First Name: @each.FirstName
+        </li>
+        <br>
+    }
+</ul>
