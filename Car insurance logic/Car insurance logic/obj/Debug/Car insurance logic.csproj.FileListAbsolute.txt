@@ -1,0 +1,7 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Car insurance logic\Car insurance logic\bin\Debug\Car insurance logic.exe.config
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Car insurance logic\Car insurance logic\bin\Debug\Car insurance logic.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Car insurance logic\Car insurance logic\bin\Debug\Car insurance logic.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Car insurance logic\Car insurance logic\obj\Debug\Car insurance logic.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Car insurance logic\Car insurance logic\obj\Debug\Car insurance logic.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Car insurance logic\Car insurance logic\obj\Debug\Car insurance logic.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\Car insurance logic\Car insurance logic\obj\Debug\Car insurance logic.pdb

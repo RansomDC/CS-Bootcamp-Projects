@@ -24,7 +24,7 @@ namespace NewsLetterAppMVC.Controllers
                 //var signups = db.SignUps.Where(x => x.Removed == null).ToList();
 
 
-                ////This is another way to filter the same data as aboce but using linq syntax instead
+                ////This is another way to filter the same data as above but using linq syntax instead
                 var signups = (from c in db.SignUps
                                where c.Removed == null
                                select c).ToList();
