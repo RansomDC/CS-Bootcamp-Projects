@@ -4,7 +4,7 @@ This is a collection of the different projects and practice files that I worked 
 
 Here is a summary of the different folder and what they contain projects:
 * Assignments
-* * ConsoleApplication Assignment-Maths
+* ConsoleApplication Assignment-Maths
 A very simple application for performing basic math functions in C#
 * * Test
 *
