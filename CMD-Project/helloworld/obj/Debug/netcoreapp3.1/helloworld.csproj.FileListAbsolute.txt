@@ -1,0 +1,14 @@
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\bin\Debug\netcoreapp3.1\helloworld.exe
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\bin\Debug\netcoreapp3.1\helloworld.deps.json
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.json
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.dev.json
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\bin\Debug\netcoreapp3.1\helloworld.dll
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\bin\Debug\netcoreapp3.1\helloworld.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\obj\Debug\netcoreapp3.1\helloworld.csproj.AssemblyReference.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\obj\Debug\netcoreapp3.1\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfoInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfo.cs
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\obj\Debug\netcoreapp3.1\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\obj\Debug\netcoreapp3.1\helloworld.dll
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\obj\Debug\netcoreapp3.1\helloworld.pdb
+C:\Users\Ranso\Documents\Programming\CS-Bootcamp-Projects\CMD-Project\helloworld\obj\Debug\netcoreapp3.1\helloworld.genruntimeconfig.cache

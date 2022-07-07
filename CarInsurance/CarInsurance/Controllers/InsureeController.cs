@@ -151,6 +151,41 @@ namespace CarInsurance.Controllers
                     // Saves changes to database
                     db.SaveChanges();
 
+
+
+
+
+                    // Alternative method of doing the calculations and specifically where to get the data to do the calculations on. Specifically you take the Insuree object from the end of the Create() fucntion and all of the data from the form
+                    // is right there for you to use.
+                    ///////////////////////////////
+                    ///////////////////////////////
+
+                    //// POST: Insuree/Create
+                    //// To protect from overposting attacks, enable the specific properties you want to bind to, for 
+                    //// more details see https://go.microsoft.com/fwlink/?LinkId=317598.
+                    //[HttpPost]
+                    //[ValidateAntiForgeryToken]
+                    //public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+                    //{
+                    //    insuree.Quote = 50; //starting value
+                    //                        //rest of quote logic goes here
+                    //    if (insuree.CoverageType) //if Full Coverage, add 50%
+                    //    {
+                    //        insuree.Quote *= (decimal)1.50;
+                    //    }
+                    //    if (ModelState.IsValid)
+                    //    {
+                    //        db.Insurees.Add(insuree);
+                    //        db.SaveChanges();
+                    //        return RedirectToAction("Confirmation", new { insuree.Id });
+                    //    }
+                    //    return View(insuree);
+
+                    //}
+
+                    ////////////////////////////////
+                    ////////////////////////////////
+
                 }
 
                 return RedirectToAction("Index");
