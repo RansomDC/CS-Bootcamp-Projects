@@ -4,17 +4,16 @@ This is a collection of the different projects and practice files that I worked 
 
 Here is a summary of the different folder and what they contain projects:
 * Assignments
-  * ConsoleApplication Assignment-Maths
-    - A very simple application for performing simple math functions in C#
-  * Log-and-Read-Assignment
-    - Another simple example of logging to a file and reading from a file
-  * Parameters-Assignment
-    - A program exploring how parameters work in C#
-  * Struct-Assignment
-    - A program exploring the creation and use of structs in C#
-  * TryCatch-Assignment
-    - Learn about utilizing Try/Catch blocks
+  * These were assignments that I needed to complete during the course, but did not need to turn in. They are mostly very simple programs, exploring the basic ideas of object oriented programming and C# syntax.
 * Basic_C#_Programs
-
-
-
+  * This is a collection of early programs that were used to introduce the basic syntax of C#
+* Submit assignments
+  * This is a collection of projects that were submitted to the Tech Academy instructors. As such they all have some minimal functionality. Mostly they are very simple, There are some larger projects that are most relevant for review
+    - CarInsurance
+      - This project is an .NET core MVC web app. It is designed to take input from a user, perform some business logic and produce a "insurance quote" based on the responses. This was a big learning opportunity in getting more used to using the MVC framework and passing data between the different parts of the App.
+    - NewsLetterAppMVC
+      - Another MVC project, this time more focused on executing CRUD functionality on a database. This looked into several ways to get information to and from the database, and includes code for performing these functions with the Entity Framework, ADO.NET, and Linq.
+* Blackjack
+  * This was an app that was written by a Tech Academy Instructor that I coded along with to get a better idea of working on an object oriented program. This gave a great deal of insight into the functionality of C# and its use of data types and classes.
+* WebAppTutorial
+  * Notes for myself on how to generate a webapp from start to ready-to-code
